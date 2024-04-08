@@ -8,3 +8,5 @@ Hoy hablaremos, de su historia.
 esto es una edicion en github
 
 esto es una edicion en gitBash
+
+hola soy Patroclito y quiero comprovar si mis cambios funcionan
