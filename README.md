@@ -1,6 +1,6 @@
 # Hyperblog 💚
 
-Un blog increíble creado durante mis clases en Platzi.
+Un blog increíble creado durante mis clases en Platzi 👉 ver hyperblog https://danielandradecv.github.io/Pruebas-de-Git-Bash/.
 
 ![Captura del hyperblog](https://github.com/danielandradecv/Pruebas-de-Git-Bash/blob/main/imagenes/readme2.jpg)
 
