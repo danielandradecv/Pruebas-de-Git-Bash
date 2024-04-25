@@ -36,3 +36,12 @@ body {
 #post {
     padding:1em
 }
+
+.footer .parrafoFooter{
+    background-color: darkslategray;
+    color: #fff;
+    text-align: center;
+    margin: 0px;
+    padding: 5px;
+    border: 0px;
+}
