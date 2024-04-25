@@ -40,7 +40,7 @@ body{
     padding:0;
     border:5px solid #ddd;
     margin:0 auto;
-    border-radius: 25px;
+    border-radius: 29px;
     background-color: #fff;
     text-align:left;
 
@@ -69,6 +69,8 @@ body{
     padding: 5px 0px 5px 15px;
     border: 0px;
     width: 400px;
+    box-shadow:0 2px 20px 0 rgba(0,0,0,.5);
+
 }
 
 .footer .parrafoFooter{
@@ -78,4 +80,5 @@ body{
     margin: 0px;
     padding: 5px;
     border: 0px;
+    border-radius: 0px 0px 25px 25px;
 }
